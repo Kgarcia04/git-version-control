@@ -1,7 +1,8 @@
 # git-version-control
+
 GitHub version control practice workspace
 
-- [x] Jongmin Choi
+- [x] Jongmin Choi \* 2
 - [ ] Aleksei Alvarez
 - [ ] Jeremy Azar
 - [ ] William Cerritos
