@@ -9,4 +9,4 @@ GitHub version control practice workspace
 - [ ] Kevin Garcia
 - [ ] Bhavya Raturi
 - [ ] Andy Rodriguez
-- [ ] Aisyah Vizcarra
+- [x] Aisyah Vizcarra
