@@ -6,7 +6,7 @@ GitHub version control practice workspace
 - [ ] Aleksei Alvarez
 - [ ] Jeremy Azar
 - [X] William Cerritos //?
-- [ ] Kevin Garcia
+- [x] Kevin Garcia
 - [ ] Bhavya Raturi
 - [ ] Andy Rodriguez
 - [x] Aisyah Vizcarra testtest
